@@ -1,0 +1,15 @@
+.blogs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blogs-route{
+    /* color: rgb(24, 24, 24); */
+    font-weight: 600;
+}
+
+.blogs-route:hover{
+    color: #0CBA4B;
+    text-decoration: underline;
+}
